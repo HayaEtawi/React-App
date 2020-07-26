@@ -1,8 +1,8 @@
 {
   "name": "task3",
   "version": "0.1.0",
-  "private": "true" ,
-“homepage”: "http://HayaEtawi.github.io/react-app",
+  "private": true ,
+"homepage": "http://HayaEtawi.github.io/react-app",
   "dependencies": {
     "cra-template": "1.0.3",
     "node-sass": "^4.14.1",
